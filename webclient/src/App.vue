@@ -21,6 +21,6 @@ export default {
 
 <style scoped>
 #app {
-  background: linear-gradient(45deg, rgba(185,215,234,1) 0%, rgba(214,230,242,1) 61%);
+  background: linear-gradient(90deg, rgba(247,251,252,1) 0%, rgba(214,230,242,1) 50%, rgba(185,215,234,1) 100%);
 }
 </style>
